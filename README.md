@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🎓 Estudante de Engeharia da Computação na UTFPR
+- 🎓 Estudante de Engenharia da Computação na UTFPR
 - 🌱 Estudando C, C++, JS Python e GML
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmcamargo&hide=stars&show_icons=true&bg_color=66000000&title_color=FF0053&text_color=777777&icon_color=E72C61&hide_border=true)

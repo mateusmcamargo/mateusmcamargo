@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🎓 Estudante de Engenharia da Computação na UTFPR
-- 🚀 Atualmente faço parte do projeto de extensão Equipe Rocket, subsistema de Aviônica na UTFPR
+- 🚀 Atualmente faço parte do projeto de extensão na UTFPR [Equipe Rocket](https://www.instagram.com/erocketutfpr/?img_index=1), no subsistema de Aviônica
 - 🕹️ Faço alguns jogos em GML usando o [Gamemaker](https://gamemaker.io/pt-BR)
 - 🌱 Estudando C, C++, JS, Python e GML
 

@@ -17,7 +17,7 @@
 >![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css3&logoColor=white)
 >![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black)
 >![SASS](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white)
->![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
+>![GML](https://img.shields.io/badge/GML-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![C](https://img.shields.io/badge/C-3e48cd?style=for-the-badge&logo=c&logoColor=white)
 
 >**Softwares e Ferramentas**

@@ -24,7 +24,7 @@
 >
 >![VSCODE](https://img.shields.io/badge/VS%20Code-3c99d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 >![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
->![FIGMA](https://img.shields.io/badge/Figma-ff7a66?style=for-the-badge&logo=figma&logoColor=white)
+>![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)
 >![PREMIERE PRO](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9a9aff)
 
 >**Atualmente Estudando**
@@ -32,6 +32,14 @@
 >![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)
 >![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 >![ARDUINO](https://img.shields.io/badge/Arduino-17959A?style=for-the-badge)
+>
+>**Caminhando Para Estudar**
+>
+<!--![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=kotlin&logoColor=white)-->
+>![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
+>![REACT](https://img.shields.io/badge/React-4ad5ff?style=for-the-badge&logo=react&logoColor=white)
+>![SQL](https://img.shields.io/badge/SQL-004d65?style=for-the-badge&logo=mysql&logoColor=white)
+>![NODEJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)
 
 ***
 

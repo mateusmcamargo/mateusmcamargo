@@ -35,7 +35,6 @@
 >
 >**Caminhando Para Estudar**
 >
-<!--![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=kotlin&logoColor=white)-->
 >![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
 >![REACT](https://img.shields.io/badge/React-4ad5ff?style=for-the-badge&logo=react&logoColor=white)
 >![SQL](https://img.shields.io/badge/SQL-004d65?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,7 +44,7 @@
 
 ### 💡 Meus Status no GitHub
 
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmcamargo&hide=stars&show_icons=true&bg_color=ffffff00&title_color=FF3D81&text_color=fff&icon_color=E72C61&hide_border=true)
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmcamargo&show_icons=true&bg_color=ffffff00&title_color=FF3D81&text_color=fff&icon_color=E72C61&hide_border=true)
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcamargo&layout=compact&bg_color=ffffff00&title_color=FF3D81&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📍 Onde me encontrar

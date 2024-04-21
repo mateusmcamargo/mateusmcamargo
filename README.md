@@ -24,6 +24,7 @@
 >
 >![VSCODE](https://img.shields.io/badge/VS%20Code-3c99d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 >![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
+>![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
 >![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)
 >![PREMIERE PRO](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9a9aff)
 

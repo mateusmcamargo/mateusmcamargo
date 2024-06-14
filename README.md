@@ -47,7 +47,7 @@
 ### 💡 Meus Status no GitHub
 
 >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmcamargo&show_icons=true&bg_color=ffffff00&title_color=FF3D81&text_color=fff&icon_color=E72C61&hide_border=true)
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcamargo&layout=compact&bg_color=ffffff00&title_color=FF3D81&text_color=fff&hide_border=true&hide=css&hide=gml)](https://github.com/anuraghazra/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcamargo&layout=compact&bg_color=ffffff00&title_color=FF3D81&text_color=fff&hide_border=true&hide=css;gml)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📍 Onde me encontrar
 >[![LINKEDIN](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)

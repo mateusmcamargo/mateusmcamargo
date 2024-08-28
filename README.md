@@ -22,7 +22,7 @@
 
 >**Softwares e Ferramentas**
 >
->![VSCODE](https://img.shields.io/badge/VSCode-3c99d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+>![VSCODE](https://img.shields.io/badge/VS%20Code-3c99d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 >![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
 >![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)

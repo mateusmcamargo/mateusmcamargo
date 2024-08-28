@@ -22,6 +22,7 @@
 
 >**Softwares e Ferramentas**
 >
+>
 >![VSCODE](https://img.shields.io/badge/VS%20Code-3c99d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 >![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
@@ -31,6 +32,7 @@
 >**Atualmente Estudando**
 >
 >![NODEJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)
+>![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 >![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
 >![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)
 >![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)

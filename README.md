@@ -15,7 +15,7 @@
 >
 >![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=white)
 >![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css3&logoColor=white)
->![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black)
+>![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F2DE51?style=for-the-badge&logo=javascript&logoColor=333333)
 >![SASS](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white)
 >![GML](https://img.shields.io/badge/GML-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![C](https://img.shields.io/badge/C-3e48cd?style=for-the-badge&logo=c&logoColor=white)
@@ -32,7 +32,7 @@
 >**Atualmente Estudando**
 >
 >![NODEJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)
->![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+>![Express.js](https://img.shields.io/badge/Express.js-333333.svg?style=for-the-badge&logo=express&logoColor=259DFF)
 >![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
 >![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)
 >![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)

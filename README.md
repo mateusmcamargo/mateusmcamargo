@@ -30,6 +30,8 @@
 
 >**Atualmente Estudando**
 >
+>![NODEJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)
+>![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
 >![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)
 >![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 >![ARDUINO](https://img.shields.io/badge/Arduino-17959A?style=for-the-badge)
@@ -37,10 +39,8 @@
 >
 >**Caminhando Para Estudar**
 >
->![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
 >![REACT](https://img.shields.io/badge/React-4ad5ff?style=for-the-badge&logo=react&logoColor=white)
 >![SQL](https://img.shields.io/badge/SQL-004d65?style=for-the-badge&logo=mysql&logoColor=white)
->![NODEJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)
 
 ***
 

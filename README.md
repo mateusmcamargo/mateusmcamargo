@@ -3,9 +3,9 @@
 ### 🌱 Sobre mim
 >
 > - 🎓 Estudante de Engenharia da Computação na UTFPR
-> - 🚀 Atualmente faço parte do projeto de extensão na UTFPR [Equipe Rocket](https://www.instagram.com/erocketutfpr/?img_index=1), no subsistema de Aviônica
+> - 🚀 Atualmente faço parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Comunicação na UTFPR
 > - 🕹️ Faço alguns jogos em GML usando o [Gamemaker](https://gamemaker.io/pt-BR)
-> - 🌱 Estudando C, C++, JS, Python e GML
+> - 🌱 Estudando JS, NodeJS, Java e GML
 
 ***
 
@@ -13,6 +13,7 @@
 
 >**Aplicações**
 >
+>![JAVA](https://img.shields.io/badge/Java-FFC96F?style=for-the-badge&logo=java&logoColor=FFF)
 >![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=white)
 >![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css3&logoColor=white)
 >![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F2DE51?style=for-the-badge&logo=javascript&logoColor=333333)
@@ -34,17 +35,14 @@
 >![NODEJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)
 >![Express.js](https://img.shields.io/badge/Express.js-333333.svg?style=for-the-badge&logo=express&logoColor=259DFF)
 >![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
->![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)
->![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)
->![ARDUINO](https://img.shields.io/badge/Arduino-17959A?style=for-the-badge)
->
->
->**Caminhando Para Estudar**
->
 >![REACT](https://img.shields.io/badge/React-4ad5ff?style=for-the-badge&logo=react&logoColor=white)
 >![SQL](https://img.shields.io/badge/SQL-004d65?style=for-the-badge&logo=mysql&logoColor=white)
 
-***
+<!--
+>![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)
+>![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+>![ARDUINO](https://img.shields.io/badge/Arduino-17959A?style=for-the-badge)
+-->
 
 ### 💡 Meus Status no GitHub
 
@@ -52,8 +50,8 @@
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcamargo&layout=compact&bg_color=ffffff00&title_color=FF3D81&text_color=fff&hide_border=true&hide=css,yacc,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📍 Onde me encontrar
->[![LINKEDIN](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
->[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+>[![LINKEDIN](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-camargo-b494831a9/?trk=opento_sprofile_goalscard)
+>[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateuscamargo2908@gmail.com)
 
 <!--
 cores:

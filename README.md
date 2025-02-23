@@ -51,7 +51,8 @@
 
 ### 📍 Onde me encontrar
 >[![LINKEDIN](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-camargo-b494831a9/?trk=opento_sprofile_goalscard)
->[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateuscamargo2908@gmail.com)
+>![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+>##### mateuscamargo2908@gmail.com
 
 <!--
 cores:

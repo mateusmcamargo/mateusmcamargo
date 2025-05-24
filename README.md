@@ -2,10 +2,10 @@
 
 ### 🌱 Sobre mim
 >
-> - 🎓 Estudante de Engenharia da Computação na UTFPR
-> - 🚀 Atualmente faço parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Comunicação na UTFPR
+> - 🎓 Estudante de Engenharia da Computação na [UTFPR](https://www.utfpr.edu.br/)
+> - 👨‍💻 Atualmente faço parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Comunicação na [UTFPR](https://www.utfpr.edu.br/)
 > - 🕹️ Faço alguns jogos em GML usando o [Gamemaker](https://gamemaker.io/pt-BR)
-> - 🌱 Estudando JS, NodeJS, Java e GML
+> - 🌱 Estudando JS, ReactJS, NodeJS, Java e GML
 
 ***
 
@@ -13,11 +13,12 @@
 
 >**Aplicações**
 >
->![JAVA](https://img.shields.io/badge/Java-FFC96F?style=for-the-badge&logo=java&logoColor=FFF)
->![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=white)
->![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css3&logoColor=white)
+>![Java](https://img.shields.io/badge/Java-FFC96F.svg?style=for-the-badge&logo=openjdk&logoColor=333333)
+>[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
+>![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+>![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 >![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F2DE51?style=for-the-badge&logo=javascript&logoColor=333333)
->![SASS](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white)
+>![SASS](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=FFFFFF)
 >![GML](https://img.shields.io/badge/GML-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![C](https://img.shields.io/badge/C-3e48cd?style=for-the-badge&logo=c&logoColor=white)
 
@@ -28,7 +29,9 @@
 >![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
 >![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)
+<!--
 >![PREMIERE PRO](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9a9aff)
+-->
 
 >**Atualmente Estudando**
 >
@@ -58,4 +61,5 @@
 cores:
 
 main: FF3D81
+gray: 333333
 -->

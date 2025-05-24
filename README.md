@@ -24,8 +24,7 @@
 
 >**Softwares e Ferramentas**
 >
->
->![VSCODE](https://img.shields.io/badge/VS%20Code-3c99d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+>![VSCODE](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 >![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
 >![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)

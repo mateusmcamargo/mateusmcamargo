@@ -1,11 +1,12 @@
 ## Olá 👋
 
-### 🌱 Sobre mim
+### 👨‍💻 Sobre mim
 >
 > - 🎓 Estudante de Engenharia da Computação na [UTFPR](https://www.utfpr.edu.br/)
-> - 👨‍💻 Atualmente faço parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Comunicação na [UTFPR](https://www.utfpr.edu.br/)
+> - 🏫 Atualmente faço parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Comunicação na [UTFPR](https://www.utfpr.edu.br/)
+> - ⚡ Tenho experiência com JavaScript, ReactJS, Java e GML
 > - 🕹️ Faço alguns jogos em GML usando o [Gamemaker](https://gamemaker.io/pt-BR)
-> - 🌱 Estudando JS, ReactJS, NodeJS, Java e GML
+> - 🌱 Estudando ReactJS, NodeJS e PostgreSQL
 
 ***
 

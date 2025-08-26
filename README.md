@@ -17,18 +17,22 @@
 >![Java](https://img.shields.io/badge/Java-FFC96F.svg?style=for-the-badge&logo=openjdk&logoColor=333333)
 >![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 >![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F2DE51?style=for-the-badge&logo=javascript&logoColor=333333)
->![SASS](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=FFFFFF)
+>![SASS](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white)
+>
 >![GML](https://img.shields.io/badge/GML-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![C](https://img.shields.io/badge/C-3e48cd?style=for-the-badge&logo=c&logoColor=white)
->![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=FFFFFF)
->![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+>![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=white)
+>![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css&logoColor=white)
 
 >**Softwares e Ferramentas**
 >
->![FIREBASE](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=333333)
->![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
+>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-BF04B9.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+>![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+>![FIREBASE](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)
 >![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+>
 >![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
+>![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
 >![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)
 >![VSCODE](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 <!--
@@ -57,11 +61,11 @@
 ### 📍 Onde me encontrar
 >[![LINKEDIN](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-camargo-b494831a9/?trk=opento_sprofile_goalscard)
 >![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
->##### mateuscamargo2908@gmail.com
+>
+>mateuscamargo2908@gmail.com
 
 <!--
-cores:
-
+colors:
 main: FF3D81
 gray: 333333
 -->

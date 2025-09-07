@@ -45,7 +45,7 @@
 >![Express.js](https://img.shields.io/badge/Express.js-333333.svg?style=for-the-badge&logo=express&logoColor=259DFF)
 >![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
 >![SQL](https://img.shields.io/badge/SQL-004d65?style=for-the-badge&logo=mysql&logoColor=white)
->![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+>![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--
 >![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)

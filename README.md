@@ -26,11 +26,12 @@
 
 >**Softwares e Ferramentas**
 >
->![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-BF04B9.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
->![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+>![INTELLIJ IDEA](https://img.shields.io/badge/IntelliJIDEA-BF04B9.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+>![NETBEANS IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 >![FIREBASE](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)
 >![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 >
+>[![FIREBASE](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)](#)
 >![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
 >![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
 >![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)

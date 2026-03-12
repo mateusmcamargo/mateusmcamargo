@@ -3,8 +3,8 @@
 ### 👨‍💻 Sobre mim
 >
 > - 🎓 Estudante de Engenharia da Computação na [UTFPR](https://www.utfpr.edu.br/)
-> - 🏫 Atualmente faço parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Comunicação na [UTFPR](https://www.utfpr.edu.br/)
-> - ⚡ Tenho experiência com JavaScript, ReactJS, Java e GML
+> - 🏫 Atualmente faço parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Marketing na [UTFPR](https://www.utfpr.edu.br/)
+> - ⚡ Tenho experiência com JavaScript em ReactJS e NextJS, além de Java com Spring e GML
 > - 🕹️ Faço alguns jogos em GML usando o [Gamemaker](https://gamemaker.io/pt-BR)
 > - 🌱 Estudando ReactJS, NodeJS e PostgreSQL
 
@@ -12,46 +12,50 @@
 
 ### 🧰 Skills
 
->**Aplicações**
+>**Tecnologias que utilizo**
 >
->![Java](https://img.shields.io/badge/Java-FFC96F.svg?style=for-the-badge&logo=openjdk&logoColor=333333)
->![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
->![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F2DE51?style=for-the-badge&logo=javascript&logoColor=333333)
->![SASS](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white)
+>[![Java](https://img.shields.io/badge/Java-FFC96F.svg?style=for-the-badge&logo=openjdk&logoColor=333333)](#)
+>[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#)
+>[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
+>[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+>[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F2DE51?style=for-the-badge&logo=javascript&logoColor=333333)](#)
 >
->![GML](https://img.shields.io/badge/GML-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
->![C](https://img.shields.io/badge/C-3e48cd?style=for-the-badge&logo=c&logoColor=white)
->![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=white)
->![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css&logoColor=white)
+>[![SASS](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white)](#)
+>[![NODEJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)](#)
+>[![GML](https://img.shields.io/badge/GML-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)](#)
+>[![C](https://img.shields.io/badge/C-3e48cd?style=for-the-badge&logo=c&logoColor=white)](#)
+>[![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=white)](#)
+>[![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css&logoColor=white)](#)
 
 >**Softwares e Ferramentas**
 >
->![INTELLIJ IDEA](https://img.shields.io/badge/IntelliJIDEA-BF04B9.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
->![NETBEANS IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
->![FIREBASE](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)
->![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+>[![INTELLIJ IDEA](https://img.shields.io/badge/IntelliJIDEA-BF04B9.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
+>[![NETBEANS IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](#)
+>[![FIREBASE](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)](#)
+>[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
 >
 >[![FIREBASE](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)](#)
->![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)
->![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)
->![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)
->![VSCODE](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
+>[![GAMEMAKER](https://img.shields.io/badge/GameMaker-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)](#)
+>[![GIT](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)](#)
+>[![FIGMA](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)](#)
+>[![VSCODE](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
 <!--
 >![PREMIERE PRO](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9a9aff)
 -->
 
->**Atualmente Estudando**
+>**Tecnologias que estudo e tenho certa experiência**
 >
->![NODEJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)
->![Express.js](https://img.shields.io/badge/Express.js-333333.svg?style=for-the-badge&logo=express&logoColor=259DFF)
->![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)
->![SQL](https://img.shields.io/badge/SQL-004d65?style=for-the-badge&logo=mysql&logoColor=white)
->![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+>[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)](#)
+>[![Express.js](https://img.shields.io/badge/Express.js-333333.svg?style=for-the-badge&logo=express&logoColor=259DFF)](#)
+>[![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)](#)
+>
+>[![SQL](https://img.shields.io/badge/SQL-004d65?style=for-the-badge&logo=mysql&logoColor=white)](#)
+>[![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+>[![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+>[![ARDUINO](https://img.shields.io/badge/Arduino-17959A?style=for-the-badge)](#)
 
 <!--
->![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)
->![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)
->![ARDUINO](https://img.shields.io/badge/Arduino-17959A?style=for-the-badge)
+>[![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)](#)
 -->
 
 ### 💡 Meus Status no GitHub
@@ -61,9 +65,7 @@
 
 ### 📍 Onde me encontrar
 >[![LINKEDIN](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-camargo-b494831a9/?trk=opento_sprofile_goalscard)
->![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
->
->mateuscamargo2908@gmail.com
+>[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuscamargo2908@gmail.com)
 
 <!--
 colors:

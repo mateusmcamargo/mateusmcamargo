@@ -3,10 +3,10 @@
 ### 👨‍💻 Sobre mim
 >
 > - 🎓 Estudante de Engenharia da Computação na [UTFPR](https://www.utfpr.edu.br/)
-> - 🏫 Atualmente faço parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Marketing na [UTFPR](https://www.utfpr.edu.br/)
-> - ⚡ Tenho experiência com JavaScript em ReactJS e NextJS, além de Java com Spring e GML
+> - 🏫 Fiz parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Marketing na [UTFPR](https://www.utfpr.edu.br/) entre janeiro e março de 2026
+> - ⚡ Tenho experiência com JavaScript em ReactJS com NextJS, além de Java com Spring e GML
 > - 🕹️ Faço alguns jogos em GML usando o [Gamemaker](https://gamemaker.io/pt-BR)
-> - 🌱 Estudando ReactJS, NodeJS e PostgreSQL
+> - 🌱 Estudando Typescript com ReactJS e NextJS, NodeJS e PostgreSQL
 
 ***
 

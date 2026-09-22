@@ -56,13 +56,13 @@
 -->
 
 ### 💡 Meus Status no GitHub
-
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmcamargo&show_icons=true&bg_color=ffffff00&title_color=FF3D81&text_color=fff&icon_color=E72C61&hide_border=true)
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcamargo&layout=compact&bg_color=ffffff00&title_color=FF3D81&text_color=fff&hide_border=true&hide=css,yacc,html)](https://github.com/anuraghazra/github-readme-stats)
+>
+>[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mateusmcamargo&hide_title=true&show_icons=true&text_color_light=000000&text_color_dark=FFFFFF&icon_color=FF3D81&title_color=FF3D81&border_color=FF3D81&bg_color=00000000)](https://github-stats-extended.vercel.app/api?username=mateusmcamargo&hide_title=true&show_icons=true)
 
 ### 📍 Onde me encontrar
->[![LINKEDIN](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-camargo-b494831a9/?trk=opento_sprofile_goalscard)
->[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuscamargo2908@gmail.com)
+>
+>[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/mateusmcamargo2)
+>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuscamargo2908@gmail.com)
 
 <!--
 colors:

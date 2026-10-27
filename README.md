@@ -4,9 +4,8 @@
 >
 > - 🎓 Estudante de Engenharia da Computação na [UTFPR](https://www.utfpr.edu.br/)
 > - 🏫 Fiz parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Marketing na [UTFPR](https://www.utfpr.edu.br/) entre janeiro de 2025 e março de 2026
-> - ⚡ Tenho experiência com TypeScript em ReactJS com Next.js, além de Java com Spring
+> - ⚡ Tenho experiência com TypeScript em ReactJS com Next.js, Java com Spring e PostgreSQL.
 > - 🕹️ Faço alguns jogos em GML usando o [Gamemaker](https://gamemaker.io/pt-BR)
-> - 🌱 Estudando Typescript com ReactJS, Next.js e PostgreSQL
 
 ***
 

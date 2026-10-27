@@ -2,16 +2,18 @@
 
 ### 👨‍💻 Sobre mim
 >
-> - 🎓 Estudante de Engenharia da Computação na [UTFPR](https://www.utfpr.edu.br/)
-> - 🏫 Fiz parte do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/), encarregado da Diretoria de Marketing na [UTFPR](https://www.utfpr.edu.br/) entre janeiro de 2025 e março de 2026
-> - ⚡ Tenho experiência com TypeScript em ReactJS com Next.js, Java com Spring e PostgreSQL.
-> - 🕹️ Faço alguns jogos em GML usando o [Gamemaker](https://gamemaker.io/pt-BR)
+> - 🎓 Estudante de Engenharia de Computação na [UTFPR](https://www.utfpr.edu.br/)
+> - ☕ Desenvolvimento fullstack com Java e Spring Boot no back-end, PostgreSQL, e TypeScript com React e Next.js no front-end
+> - 🛠️ Desenvolvi o [Badger Tasks](https://github.com/mateusmcamargo/badger-tasks), sistema de gestão de tarefas da equipe de Fórmula SAE Badger Racing da UTFPR, com API REST, controle de acesso por perfis e Docker
+> - 🧩 Publiquei a extensão [NPM Run Dev Button for Status Bar](https://github.com/mateusmcamargo/npm-run-dev-button) para o VS Code
+> - 🏫 Fui Diretor de Marketing do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/) entre janeiro de 2025 e março de 2026
+> - 🕹️ Faço jogos em GML com o [GameMaker](https://gamemaker.io/pt-BR)
 
 ***
 
 ### 🧰 Skills
 
->**Stack Principal** [Java | Spring Boot | PostgreSQL | React | Next.js | TypeScript| SCSS/CSS Modules]
+>**Stack Principal** [Java | Spring Boot | API REST | PostgreSQL | React | Next.js | TypeScript | SCSS/CSS Modules]
 >
 >[![Java](https://img.shields.io/badge/Java-FFC96F.svg?style=for-the-badge&logo=openjdk&logoColor=333333)](#)
 >[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#)
@@ -28,11 +30,11 @@
 
 >**Ferramentas e Infra**
 >
+>[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
+>[![Git](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)](#)
 >[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)](#)
 >[![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)](#)
 >[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
->[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
->[![Git](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)](#)
 >[![Figma](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)](#)
 <!--
 >![PREMIERE PRO](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9a9aff)
@@ -44,7 +46,7 @@
 >**Tecnologias que já estudei e tenho experiência**
 >
 >[![Express.js](https://img.shields.io/badge/Express.js-333333.svg?style=for-the-badge&logo=express&logoColor=259DFF)](#)
->[![JQUERY](https://img.shields.io/badge/jQuerry-0868ab?style=for-the-badge&logo=jquery&logoColor=white)](#)
+>[![jQuery](https://img.shields.io/badge/jQuery-0868ab?style=for-the-badge&logo=jquery&logoColor=white)](#)
 >[![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 >[![ARDUINO](https://img.shields.io/badge/Arduino-17959A?style=for-the-badge)](#)
 >[![GML](https://img.shields.io/badge/GML-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)](#)
@@ -60,7 +62,7 @@
 
 ### 📍 Onde me encontrar
 >
->[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/mateusmcamargo2)
+>[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateusmcamargo2)
 >[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuscamargo2908@gmail.com)
 
 <!--

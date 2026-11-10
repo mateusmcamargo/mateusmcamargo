@@ -37,6 +37,9 @@ brasileira para informar o público com uma linguagem simples.
 
 <br><br>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mateusmcamargo&hide_title=true&show_icons=true&text_color_light=000000&text_color_dark=FFFFFF&icon_color=FF3D81&title_color=FF3D81&border_color=FF3D81&bg_color=00000000)](https://github.com/mateusmcamargo)
+<a href="https://github.com/mateusmcamargo"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusmcamargo/stats-card/main/assets/stats-dark.svg">
+    <img src="https://raw.githubusercontent.com/mateusmcamargo/stats-card/main/assets/stats-light.svg" alt="GitHub Stats">
+</picture></a>
 
 </div>

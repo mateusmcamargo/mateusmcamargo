@@ -1,72 +1,44 @@
-## Olá 👋
+<div align="center">
 
-### 👨‍💻 Sobre mim
->
-> - 🎓 Estudante de Engenharia de Computação na [UTFPR](https://www.utfpr.edu.br/)
-> - ☕ Desenvolvimento fullstack com Java e Spring Boot no back-end, PostgreSQL, e TypeScript com React e Next.js no front-end
-> - 🛠️ Desenvolvi o [Badger Tasks](https://github.com/mateusmcamargo/badger-tasks), sistema de gestão de tarefas da equipe de Fórmula SAE Badger Racing da UTFPR, com API REST, controle de acesso por perfis e Docker
-> - 🧩 Publiquei a extensão [NPM Run Dev Button for Status Bar](https://github.com/mateusmcamargo/npm-run-dev-button) para o VS Code
-> - 🏫 Fui Diretor de Marketing do [Diretório Acadêmico de Computação](https://www.instagram.com/dacompcp/) entre janeiro de 2025 e março de 2026
-> - 🕹️ Faço jogos em GML com o [GameMaker](https://gamemaker.io/pt-BR)
+<br>
 
-***
+<samp>
+Olá 👋. Estudo Engenharia de Computação na <a href="https://www.utfpr.edu.br/">UTFPR</a>.
+<br>
+Faço aplicações fullstack com Java/Spring Boot e TypeScript com React/Next.js,
+<br>
+além de Jogos no GameMaker e projetos IoT com Arduino e ESP32.
+</samp>
 
-### 🧰 Skills
+<br><br>
 
->**Stack Principal** [Java | Spring Boot | API REST | PostgreSQL | React | Next.js | TypeScript | SCSS/CSS Modules]
->
->[![Java](https://img.shields.io/badge/Java-FFC96F.svg?style=for-the-badge&logo=openjdk&logoColor=333333)](#)
->[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#)
->[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
->[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
->[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
->[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](#)
->
->[![Sass](https://img.shields.io/badge/Sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white)](#)
->[![JavaScript](https://img.shields.io/badge/JavaScript-F2DE51?style=for-the-badge&logo=javascript&logoColor=333333)](#)
->[![NodeJS](https://img.shields.io/badge/Node-40a05e?style=for-the-badge&logo=node.js&logoColor=white)](#)
->[![HTML](https://img.shields.io/badge/HTML5-f1652a?style=for-the-badge&logo=html5&logoColor=white)](#)
->[![CSS](https://img.shields.io/badge/CSS3-2aa9e0?style=for-the-badge&logo=css&logoColor=white)](#)
+<samp>
+Atualmente faço parte da CyberGuard, desenvolvendo ferramentas
+<br>
+internas e uma plataforma de aulas de segurança da informação.
 
->**Ferramentas e Infra**
->
->[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
->[![Git](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)](#)
->[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)](#)
->[![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)](#)
->[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
->[![Figma](https://img.shields.io/badge/Figma-FA7070?style=for-the-badge&logo=figma&logoColor=white)](#)
-<!--
->![PREMIERE PRO](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9a9aff)
->[![INTELLIJ IDEA](https://img.shields.io/badge/IntelliJIDEA-BF04B9.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
->[![VSCODE](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
->[![NETBEANS IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](#)
--->
+<br><br>
 
->**Tecnologias que já estudei e tenho experiência**
->
->[![Express.js](https://img.shields.io/badge/Express.js-333333.svg?style=for-the-badge&logo=express&logoColor=259DFF)](#)
->[![jQuery](https://img.shields.io/badge/jQuery-0868ab?style=for-the-badge&logo=jquery&logoColor=white)](#)
->[![C++](https://img.shields.io/badge/C%2B%2B-3e48cd?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
->[![ARDUINO](https://img.shields.io/badge/Arduino-17959A?style=for-the-badge)](#)
->[![GML](https://img.shields.io/badge/GML-5975ff?style=for-the-badge&logo=gamemaker&logoColor=white)](#)
->[![C](https://img.shields.io/badge/C-3e48cd?style=for-the-badge&logo=c&logoColor=white)](#)
+Trabalhando no <a href="https://github.com/mateusmcamargo/polar"><img src="assets/polar-badge-light.svg" alt="polar" height="22"></a>, usando os dados da política<br>
+brasileira para informar o público com uma linguagem simples.
+</samp>
 
-<!--
->[![PYTHON](https://img.shields.io/badge/Python-3771a1?style=for-the-badge&logo=python&logoColor=white)](#)
--->
+<br><br>
 
-### 💡 Meus Status no GitHub
->
->[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mateusmcamargo&hide_title=true&show_icons=true&text_color_light=000000&text_color_dark=FFFFFF&icon_color=FF3D81&title_color=FF3D81&border_color=FF3D81&bg_color=00000000)](https://github-stats-extended.vercel.app/api?username=mateusmcamargo&hide_title=true&show_icons=true)
+<br><br>
 
-### 📍 Onde me encontrar
->
->[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateusmcamargo2)
->[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuscamargo2908@gmail.com)
+<samp>
+~ <a href="https://www.linkedin.com/in/mateusmcamargo2">linkedin</a> · <a href="mailto:mateuscamargo2908@gmail.com">email</a> ~
+</samp>
 
-<!--
-colors:
-main: FF3D81
-gray: 333333
--->
+<br><br>
+
+<samp>
+~ <a href="https://github.com/mateusmcamargo/polar">polar</a> | <a href="https://github.com/mateusmcamargo/badger-tasks">badger-tasks</a> | <a href="https://github.com/mateusmcamargo/npm-run-dev-button">npm-run-dev-button</a> ~
+</samp>
+
+<br><br>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mateusmcamargo&hide_title=true&show_icons=true&text_color_light=000000&text_color_dark=FFFFFF&icon_color=FF3D81&title_color=FF3D81&border_color=FF3D81&bg_color=00000000)](https://github.com/mateusmcamargo)
+
+</div>

@@ -19,7 +19,7 @@ internas e uma plataforma de aulas de segurança da informação.
 
 <br><br>
 
-Trabalhando no <a href="https://github.com/mateusmcamargo/polar"><img src="assets/polar-badge-light.svg" alt="polar" height="22"></a>, usando os dados da política<br>
+Trabalhando no <a href="https://github.com/mateusmcamargo/polar"><img src="assets/polar-badge.svg" alt="polar" height="22" align="absmiddle"></a>, usando os dados da política<br>
 brasileira para informar o público com uma linguagem simples.
 </samp>
 

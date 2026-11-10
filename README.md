@@ -25,13 +25,11 @@ brasileira para informar o público com uma linguagem simples.
 
 <br><br>
 
-<br><br>
-
 <samp>
 ~ <a href="https://www.linkedin.com/in/mateusmcamargo2">linkedin</a> · <a href="mailto:mateuscamargo2908@gmail.com">email</a> ~
 </samp>
 
-<br><br>
+<br>
 
 <samp>
 ~ <a href="https://github.com/mateusmcamargo/polar">polar</a> | <a href="https://github.com/mateusmcamargo/badger-tasks">badger-tasks</a> | <a href="https://github.com/mateusmcamargo/npm-run-dev-button">npm-run-dev-button</a> ~

@@ -32,7 +32,7 @@ brasileira para informar o público com uma linguagem simples.
 <br>
 
 <samp>
-~ <a href="https://github.com/mateusmcamargo/polar">polar</a> | <a href="https://github.com/mateusmcamargo/badger-tasks">badger-tasks</a> | <a href="https://github.com/mateusmcamargo/npm-run-dev-button">npm-run-dev-button</a> ~
+~ <a href="https://github.com/mateusmcamargo/trilha-md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/aster-badge-light.svg"><img src="assets/aster-badge.svg" alt="Áster" height="24" align="absmiddle"></picture></a> | <a href="https://github.com/mateusmcamargo/polar">polar</a> | <a href="https://github.com/mateusmcamargo/badger-tasks"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badger-tasks-badge-light.svg"><img src="assets/badger-tasks-badge.svg" alt="Badger Tasks" height="24" align="absmiddle"></picture></a> | <a href="https://github.com/mateusmcamargo/npm-run-dev-button"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/npm-run-dev-button-badge-light.svg"><img src="assets/npm-run-dev-button-badge.svg" alt="npm run dev" height="24" align="absmiddle"></picture></a> ~
 </samp>
 
 <br><br>

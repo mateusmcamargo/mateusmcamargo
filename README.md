@@ -13,7 +13,7 @@ além de Jogos no GameMaker e projetos IoT com Arduino e ESP32.
 <br><br>
 
 <samp>
-Atualmente faço parte da CyberGuard, desenvolvendo ferramentas
+Atualmente faço parte da <a href="https://www.linkedin.com/company/cyberguardutfpr">CyberGuard</a>, desenvolvendo ferramentas
 <br>
 internas e uma plataforma de aulas de segurança da informação.
 

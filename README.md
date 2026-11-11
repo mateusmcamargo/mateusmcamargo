@@ -26,7 +26,7 @@ brasileira para informar o público com uma linguagem simples.
 <br><br>
 
 <samp>
-~ <a href="https://www.linkedin.com/in/mateusmcamargo2">linkedin</a> · <a href="mailto:mateuscamargo2908@gmail.com">email</a> ~
+~ <a href="https://www.linkedin.com/in/mateusmcamargo2">LinkedIn</a> · <a href="mailto:mateuscamargo2908@gmail.com">email</a> ~
 </samp>
 
 <br>
